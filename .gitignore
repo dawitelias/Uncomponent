@@ -1,0 +1,14 @@
+# Logs
+*.log
+*.log.*
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+out/
+*.js
+
+# Figma plugin leftovers
+code.js
